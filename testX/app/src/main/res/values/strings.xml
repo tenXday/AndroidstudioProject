@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">testX</string>
+    <string name="button">+1</string>
+    <string name="button_decrement">-1</string>
+    <string name="textview">0</string>
+    <string name="resultView">Result</string>
+    <string name="roll">Roll</string>
+    <string name="dice_number">Dice Number</string>
+    <string name="name">Name</string>
+    <string name="string_name" />
+    <string name="todo">TODO</string>
+    <string name="sendbutton">Send</string>
+    <string name="sendhint">Name</string>
+</resources>
